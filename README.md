@@ -1,4 +1,7 @@
 # Scan
+Go structure recursive scan, Better support for the following types:
+- `net.IP`
+- `time.Time`
 
 ## Example
 ### 1. scan
