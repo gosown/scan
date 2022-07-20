@@ -1,1 +1,1 @@
-# go-scan
+# scan
